@@ -1,4 +1,4 @@
-# A Comparative Study of Machine Learning and Deep Learning Approaches for Sentiment Analysis of E-Commerce Product Reviews Using Naive Bayes, SVM, and IndoBERT
+# Perbandingan Metode Machine Learning dan Deep Learning pada Analisis Sentimen Review Produk E-Commerce Menggunakan Naive Bayes, SVM, dan IndoBERT
 
 Undergraduate thesis (Skripsi) implementation comparing conventional Machine Learning and Transformer-based Deep Learning methods for Indonesian-language sentiment analysis on e-commerce product reviews.
 
